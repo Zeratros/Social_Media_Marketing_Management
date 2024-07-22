@@ -7,6 +7,7 @@ Welcome to my comprehensive portfolio of social media management and marketing p
 - Dashboards
 - Graphics
 - Carrousels
+- Videos
 - etc...
 
 ## 🚀 Skills Showcased
